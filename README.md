@@ -13,8 +13,6 @@
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=faridkia&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=faridkia&layout=compact&theme=radical)
-![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=faridkia)
-![Total Commits](https://github-readme-stats.vercel.app/api?username=faridkia&count_private=true&show_icons=true&hide_title=true&include_all_commits=true&theme=radical)
 
 
 
