@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+I'm Farid Kia ✌️
+
 - 🔭 I’m currently working on building awesome web applications.
 - 👯 I’m looking to collaborate on open-source projects.
 - 💬 Ask me about Django.
