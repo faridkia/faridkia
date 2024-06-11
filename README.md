@@ -1,13 +1,13 @@
 ## Hi there 👋
 
-![Header Image](https://media.licdn.com/dms/image/D4D16AQF8eUA3stu5PA/profile-displaybackgroundimage-shrink_350_1400/0/1717164577226?e=1723680000&v=beta&t=SAbLs3fLSeJzQOVo9fIgmon4-9UkkxQb139gw3qPcnc)
-
 ## About Me
 
 - 🔭 I’m currently working on building awesome web applications.
 - 👯 I’m looking to collaborate on open-source projects.
 - 💬 Ask me about Django.
 - 📫 How to reach me: [faridkiaeieh@gmail.com](mailto:faridkiaeieh@gmail.com)
+
+![Header Image](https://media.licdn.com/dms/image/D4D16AQF8eUA3stu5PA/profile-displaybackgroundimage-shrink_350_1400/0/1717164577226?e=1723680000&v=beta&t=SAbLs3fLSeJzQOVo9fIgmon4-9UkkxQb139gw3qPcnc)
 
 ## GitHub Stats
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=faridkia&layout=compact&theme=radical)
