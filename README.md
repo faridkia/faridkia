@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![Header Image]([https://wallpapercave.com/wp/wp2150006.png](https://wallpapercave.com/wp/wp5565615.jpg))
+![Header Image](https://wallpapercave.com/wp/wp5565615.jpg)
 
 ## About Me
 
