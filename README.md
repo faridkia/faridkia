@@ -3,7 +3,7 @@
 I'm Farid Kia ✌️
 
 - 🔭 I’m currently working on building awesome web applications.
-- 👯 I’m looking to collaborate on open-source projects.
+- 👯 I’m looking to collaborate on projects.
 - 💬 Ask me about Django.
 - 📫 How to reach me: [faridkiaeieh@gmail.com](mailto:faridkiaeieh@gmail.com)
 
