@@ -1,11 +1,12 @@
-Hi there !, I'm Farid Kia ✌️
+Hi there !
+I'm Farid Kia ✌️
 
 - 🔭 I’m currently working on building awesome web applications.
 - 👯 I’m looking to collaborate on projects.
 - 💬 Ask me about Django.
 - 📫 How to reach me: [faridkiaeieh@gmail.com](mailto:faridkiaeieh@gmail.com)
 
-![Header Image](https://wallpapercave.com/wp/wp6214950.jpg)
+![Header Image](https://media.licdn.com/dms/image/v2/D4D16AQF8eUA3stu5PA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1719348341816?e=1729728000&v=beta&t=V0Tg3D3U02u0EeuYeK_pOHgZbgEF9n1gMY0cX5eadz8)
 
 ## Languages and Tools
 
